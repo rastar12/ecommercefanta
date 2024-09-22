@@ -40,7 +40,7 @@ const headphoneData = [
     image: Fanta1,
     title: "Orange Fanta",
     subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae iusto minima ad ut id eos iusto minima ad ut id eos ad ut id eos",
+      "Bursting with vibrant flavor, Fanta Orange delivers a refreshing, fruity experience that’s perfect for any occasion. Enjoy the sweet, tangy taste of real orange, and let your taste buds dance with delight!",
     price: "kes 100",
     modal: "Orange",
     bgColor: "#cf4f00",
@@ -50,7 +50,7 @@ const headphoneData = [
     image: Fanta2,
     title: "Cola Zero",
     subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae iusto minima ad ut id eos iusto minima ad ut id eos ad ut id eos",
+     "Enjoy all the great taste of Coca-Cola without the sugar! Coca-Cola Zero Sugar offers the same refreshing flavor you love, now guilt-free. Perfect for those who want to indulge without compromise!",
     price: "kes 100",
     modal: "Zero",
     bgColor: "#727272",
@@ -60,7 +60,7 @@ const headphoneData = [
     image: Fanta3,
     title: "Coca Cola",
     subtitle:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae iusto minima ad ut id eos iusto minima ad ut id eos ad ut id eos",
+    "Experience the classic refreshment of Coca-Cola! With its iconic taste and effervescent fizz, this beloved soda is the perfect companion for meals, gatherings, or a quick pick-me-up. Share a Coke and savor the moment!",
     price: "kes 100",
     modal: "Cola",
     bgColor: "#ac1a00",
@@ -262,7 +262,7 @@ const Hero = () => {
           </div>
           {/* ______ WhatsApp Icon ______ */}
           <div className="text-3xl text-white fixed bottom-10 right-10 hover:rotate-[360deg] duration-500 z-[99999] mix-blend-difference">
-            <a href="">
+            <a href="https://wa.me/254798148395" target="_blank">
               <FaWhatsapp />
             </a>
           </div>
