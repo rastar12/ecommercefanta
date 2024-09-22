@@ -12,7 +12,7 @@ export default{
 
       fontFamily:{
         sans:["poppins","sans-serif"],
-        handwritten:["Merienda","cursive"]
+        handwriting:["Merienda","cursive"]
       },
       container:{
         center:true,
